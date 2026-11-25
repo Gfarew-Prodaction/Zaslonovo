@@ -1,0 +1,314 @@
+[
+  {
+    "index": 0,
+    "name": "Z_Porcelain",
+    "texture": "Porcelain",
+    "color": [
+      193,
+      190,
+      173
+    ],
+    "metallic": 0.0,
+    "roughness": 0.53,
+    "glass": false
+  },
+  {
+    "index": 1,
+    "name": "Z_Porcelain_Shade",
+    "texture": "Porcelain",
+    "color": [
+      174,
+      170,
+      151
+    ],
+    "metallic": 0.0,
+    "roughness": 0.57,
+    "glass": false
+  },
+  {
+    "index": 2,
+    "name": "Z_Composite_White",
+    "texture": "Paint",
+    "color": [
+      231,
+      236,
+      232
+    ],
+    "metallic": 0.18,
+    "roughness": 0.29,
+    "glass": false
+  },
+  {
+    "index": 3,
+    "name": "Z_Recessed_Joints",
+    "texture": null,
+    "color": [
+      79,
+      77,
+      66
+    ],
+    "metallic": 0.0,
+    "roughness": 0.88,
+    "glass": false
+  },
+  {
+    "index": 4,
+    "name": "Z_Ochre_Granite",
+    "texture": "Granite",
+    "color": [
+      147,
+      84,
+      49
+    ],
+    "metallic": 0.0,
+    "roughness": 0.29,
+    "glass": false
+  },
+  {
+    "index": 5,
+    "name": "Z_Foundation_Granite",
+    "texture": "Plinth",
+    "color": [
+      108,
+      90,
+      72
+    ],
+    "metallic": 0.0,
+    "roughness": 0.55,
+    "glass": false
+  },
+  {
+    "index": 6,
+    "name": "Z_Green_Metal_Tile",
+    "texture": "Roof",
+    "color": [
+      33,
+      85,
+      73
+    ],
+    "metallic": 0.45,
+    "roughness": 0.32,
+    "glass": false
+  },
+  {
+    "index": 7,
+    "name": "Z_White_PVC",
+    "texture": "Paint",
+    "color": [
+      235,
+      238,
+      231
+    ],
+    "metallic": 0.08,
+    "roughness": 0.24,
+    "glass": false
+  },
+  {
+    "index": 8,
+    "name": "Z_Glazing_Clear",
+    "texture": null,
+    "color": [
+      231,
+      247,
+      242
+    ],
+    "metallic": 0.0,
+    "roughness": 0.045,
+    "glass": true
+  },
+  {
+    "index": 9,
+    "name": "Z_Glazing_Blue",
+    "texture": null,
+    "color": [
+      221,
+      237,
+      241
+    ],
+    "metallic": 0.0,
+    "roughness": 0.035,
+    "glass": true
+  },
+  {
+    "index": 10,
+    "name": "Z_Glazing_Warm",
+    "texture": null,
+    "color": [
+      240,
+      241,
+      231
+    ],
+    "metallic": 0.0,
+    "roughness": 0.045,
+    "glass": true
+  },
+  {
+    "index": 11,
+    "name": "Z_Glazing_Entrance",
+    "texture": null,
+    "color": [
+      223,
+      237,
+      231
+    ],
+    "metallic": 0.0,
+    "roughness": 0.05,
+    "glass": true
+  },
+  {
+    "index": 12,
+    "name": "Z_Flashing_Charcoal",
+    "texture": null,
+    "color": [
+      44,
+      66,
+      59
+    ],
+    "metallic": 0.65,
+    "roughness": 0.32,
+    "glass": false
+  },
+  {
+    "index": 13,
+    "name": "Z_Brushed_Stainless",
+    "texture": null,
+    "color": [
+      185,
+      194,
+      188
+    ],
+    "metallic": 0.95,
+    "roughness": 0.24,
+    "glass": false
+  },
+  {
+    "index": 14,
+    "name": "Z_Brass_Plaque",
+    "texture": null,
+    "color": [
+      176,
+      141,
+      77
+    ],
+    "metallic": 0.83,
+    "roughness": 0.26,
+    "glass": false
+  },
+  {
+    "index": 15,
+    "name": "Z_Flamed_Granite_Treads",
+    "texture": "Tread",
+    "color": [
+      163,
+      153,
+      133
+    ],
+    "metallic": 0.0,
+    "roughness": 0.76,
+    "glass": false
+  },
+  {
+    "index": 16,
+    "name": "Z_Room_Shadow",
+    "texture": null,
+    "color": [
+      34,
+      35,
+      30
+    ],
+    "metallic": 0.0,
+    "roughness": 0.92,
+    "glass": false
+  },
+  {
+    "index": 17,
+    "name": "Z_Interior_Plaster",
+    "texture": null,
+    "color": [
+      183,
+      177,
+      153
+    ],
+    "metallic": 0.0,
+    "roughness": 0.86,
+    "glass": false
+  },
+  {
+    "index": 18,
+    "name": "Z_Curtain_Linen",
+    "texture": "Fabric",
+    "color": [
+      211,
+      207,
+      185
+    ],
+    "metallic": 0.0,
+    "roughness": 0.94,
+    "glass": false
+  },
+  {
+    "index": 19,
+    "name": "Z_Rubber_Gasket",
+    "texture": "Rubber",
+    "color": [
+      28,
+      32,
+      28
+    ],
+    "metallic": 0.0,
+    "roughness": 0.83,
+    "glass": false
+  },
+  {
+    "index": 20,
+    "name": "Z_Polished_Sign_Metal",
+    "texture": null,
+    "color": [
+      215,
+      223,
+      219
+    ],
+    "metallic": 0.88,
+    "roughness": 0.19,
+    "glass": false
+  },
+  {
+    "index": 21,
+    "name": "Z_Opal_Globe",
+    "texture": null,
+    "color": [
+      246,
+      240,
+      217
+    ],
+    "metallic": 0.0,
+    "roughness": 0.22,
+    "glass": false
+  },
+  {
+    "index": 22,
+    "name": "Z_Drain_Paint",
+    "texture": "Paint",
+    "color": [
+      219,
+      222,
+      214
+    ],
+    "metallic": 0.22,
+    "roughness": 0.37,
+    "glass": false
+  },
+  {
+    "index": 23,
+    "name": "Z_Door_Lower_Panel",
+    "texture": "Paint",
+    "color": [
+      225,
+      229,
+      220
+    ],
+    "metallic": 0.1,
+    "roughness": 0.35,
+    "glass": false
+  }
+]

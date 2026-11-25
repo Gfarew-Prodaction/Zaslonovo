@@ -1,0 +1,10 @@
+{
+  "scene": "Assets/Scenes/Zaslonovo_Camp.unity",
+  "buildings": 5,
+  "pines": 1209,
+  "alleys": 11,
+  "scene_and_material_references_verified": 110,
+  "missing_guids": 0,
+  "play_tests": "passed",
+  "layout_accuracy": "footprints from OSM; four building identities inferred"
+}

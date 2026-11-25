@@ -1,0 +1,21 @@
+Unity 6000.6.8f1 / URP 17.6.0
+
+SUCCESS
+5 URP buildings
+1209 pine LODGroups
+Player, terrain, path collisions and dependencies verified
+Spawn ground: (-6.827, 0.040, 170.554)
+All 11 alleys checked for intersections with building colliders.
+
+SUCCESS
+PASS: spawn rests on the terrain/path; gravity is active
+PASS: walking moves 4.20 m/s
+PASS: sprint moves 7.20 m/s
+PASS: diagonal movement does not increase speed
+PASS: jump rises and lands; height 0.85 m
+PASS: sprinting into a wall stops the capsule
+PASS: mouse turns the camera; pitch remains within +/-85 degrees
+PASS: cursor release and respawn
+
+Layout: OpenStreetMap footprints + illustrated camp plan; four building identities remain inferred.
+See Assets/ZaslonovoWorld/References/Research.txt.

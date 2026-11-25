@@ -1,0 +1,117 @@
+{
+  "key": "Beige",
+  "title": "Бежевый корпус",
+  "triangles": 381391,
+  "meshes": {
+    "01 Horizontal siding": 30503,
+    "02 Burgundy pilasters and architraves": 12804,
+    "03 Stone base": 124,
+    "04 PVC window and door frames": 122364,
+    "05 Glazing": 3048,
+    "06 Recesses and interiors": 7020,
+    "07 Curtain folds": 4578,
+    "08 Window and door hardware": 17636,
+    "09 Profiled roof metal": 174832,
+    "10 Fascias and soffits": 758,
+    "11 Drainage": 1624,
+    "12 Stair treads and landings": 308,
+    "13 Stair stringers and supports": 644,
+    "14 Circular ornamental railings": 3036,
+    "15 Fixtures": 396,
+    "98 Continuous wall cores and sealed reveals": 1596,
+    "99 Closed roof liners and junction caps": 120
+  },
+  "colliders": [
+    {
+      "name": "Entry step 1",
+      "center": [
+        0,
+        -3.9599999999999995,
+        0.06999999999999999
+      ],
+      "size": [
+        2.1,
+        0.3,
+        0.13999999999999999
+      ]
+    },
+    {
+      "name": "Entry step 2",
+      "center": [
+        0,
+        -3.66,
+        0.13999999999999999
+      ],
+      "size": [
+        2.1,
+        0.3,
+        0.27999999999999997
+      ]
+    },
+    {
+      "name": "Entry step 3",
+      "center": [
+        0,
+        -3.36,
+        0.21
+      ],
+      "size": [
+        2.1,
+        0.3,
+        0.42
+      ]
+    },
+    {
+      "name": "Main walls",
+      "center": [
+        0,
+        5.2,
+        3.25
+      ],
+      "size": [
+        28,
+        10.4,
+        6.5
+      ]
+    },
+    {
+      "name": "Central bow",
+      "center": [
+        0,
+        -0.8,
+        3.8
+      ],
+      "size": [
+        7.8,
+        1.8,
+        7.6
+      ]
+    },
+    {
+      "name": "Entry landing",
+      "center": [
+        0,
+        -2.43,
+        0.21
+      ],
+      "size": [
+        2.1,
+        1.56,
+        0.42
+      ]
+    }
+  ],
+  "reference": "Beige-Corpus.jpg",
+  "inferred": "Dimensions and unseen side/rear elevations are estimated from photographs, not measured plans.",
+  "lods": [
+    {
+      "level": 1,
+      "triangles": 115959
+    },
+    {
+      "level": 2,
+      "triangles": 66402
+    }
+  ],
+  "envelope_repaired": true
+}

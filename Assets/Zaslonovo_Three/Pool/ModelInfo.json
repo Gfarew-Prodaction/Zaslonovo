@@ -1,0 +1,103 @@
+{
+  "key": "Pool",
+  "title": "Бассейн",
+  "triangles": 483029,
+  "meshes": {
+    "01 Horizontal siding": 26237,
+    "02 Burgundy pilasters and architraves": 3564,
+    "03 Stone base": 60,
+    "04 PVC window and door frames": 49724,
+    "05 Glazing": 1048,
+    "06 Recesses and interiors": 2064,
+    "07 Curtain folds": 1140,
+    "08 Window and door hardware": 8492,
+    "09 Profiled roof metal": 295616,
+    "10 Fascias and soffits": 38476,
+    "11 Drainage": 3616,
+    "12 Stair treads and landings": 176,
+    "13 Stair stringers and supports": 45732,
+    "15 Fixtures": 24,
+    "98 Continuous wall cores and sealed reveals": 4404,
+    "99 Closed roof liners and junction caps": 2656
+  },
+  "colliders": [
+    {
+      "name": "Entry step 1",
+      "center": [
+        1.68,
+        -4.18,
+        0.07
+      ],
+      "size": [
+        1.5,
+        0.3,
+        0.14
+      ]
+    },
+    {
+      "name": "Entry step 1",
+      "center": [
+        7.38,
+        -4.18,
+        0.07
+      ],
+      "size": [
+        1.5,
+        0.3,
+        0.14
+      ]
+    },
+    {
+      "name": "Pool hall",
+      "center": [
+        10.25,
+        8,
+        3.0
+      ],
+      "size": [
+        41.5,
+        16,
+        6
+      ]
+    },
+    {
+      "name": "Annex",
+      "center": [
+        -1,
+        -1.9,
+        2.9
+      ],
+      "size": [
+        19.2,
+        4.2,
+        5.8
+      ]
+    },
+    {
+      "name": "Stair tower",
+      "center": [
+        -8.95,
+        -1.52,
+        4.61
+      ],
+      "size": [
+        3.3,
+        5.05,
+        9.22
+      ]
+    }
+  ],
+  "reference": "Pool.jpg",
+  "inferred": "Dimensions and unseen side/rear elevations are estimated from photographs, not measured plans.",
+  "lods": [
+    {
+      "level": 1,
+      "triangles": 148884
+    },
+    {
+      "level": 2,
+      "triangles": 58470
+    }
+  ],
+  "envelope_repaired": true
+}

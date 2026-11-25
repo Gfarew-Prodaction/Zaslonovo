@@ -1,0 +1,106 @@
+{
+  "key": "Mural",
+  "title": "Одноэтажный корпус",
+  "triangles": 291988,
+  "meshes": {
+    "01 Horizontal siding": 16462,
+    "02 Burgundy pilasters and architraves": 3168,
+    "03 Stone base": 144,
+    "04 PVC window and door frames": 34496,
+    "05 Glazing": 819,
+    "06 Recesses and interiors": 1227,
+    "07 Curtain folds": 1172,
+    "08 Window and door hardware": 6276,
+    "09 Profiled roof metal": 182840,
+    "10 Fascias and soffits": 9244,
+    "11 Drainage": 1184,
+    "12 Stair treads and landings": 352,
+    "13 Stair stringers and supports": 15684,
+    "14 Circular ornamental railings": 8176,
+    "15 Fixtures": 6840,
+    "16 Ridge lantern and roof barriers": 24,
+    "17 Original cartoon mural": 32,
+    "98 Continuous wall cores and sealed reveals": 1856,
+    "99 Closed roof liners and junction caps": 1992
+  },
+  "colliders": [
+    {
+      "name": "Entry step 1",
+      "center": [
+        4.78,
+        -2.5500000000000003,
+        0.075
+      ],
+      "size": [
+        2.2,
+        0.3,
+        0.15
+      ]
+    },
+    {
+      "name": "Entry step 2",
+      "center": [
+        4.78,
+        -2.25,
+        0.15
+      ],
+      "size": [
+        2.2,
+        0.3,
+        0.3
+      ]
+    },
+    {
+      "name": "Entry step 3",
+      "center": [
+        4.78,
+        -1.9500000000000002,
+        0.225
+      ],
+      "size": [
+        2.2,
+        0.3,
+        0.45
+      ]
+    },
+    {
+      "name": "Long building",
+      "center": [
+        0,
+        4.9,
+        1.97
+      ],
+      "size": [
+        22,
+        9.8,
+        3.94
+      ]
+    },
+    {
+      "name": "Veranda",
+      "center": [
+        4.65,
+        -0.83,
+        0.22
+      ],
+      "size": [
+        6.75,
+        1.9,
+        0.44
+      ]
+    }
+  ],
+  "reference": "Mural-Corpus.jpg",
+  "inferred": "Dimensions and unseen side/rear elevations are estimated from photographs, not measured plans.",
+  "lods": [
+    {
+      "level": 1,
+      "triangles": 89150
+    },
+    {
+      "level": 2,
+      "triangles": 37707
+    }
+  ],
+  "envelope_repaired": true
+}

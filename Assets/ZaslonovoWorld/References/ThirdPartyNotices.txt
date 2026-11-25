@@ -1,0 +1,16 @@
+Poly Haven assets — CC0 1.0 (https://polyhaven.com/license).
+https://polyhaven.com/a/pine_tree_01
+Rico Cilliers, Rob Tuytel: bark and twig photographic textures.
+Only photographic textures are used; the instanced tree meshes were generated for this scene.
+The foliage source alpha was packed into its color texture for URP alpha clipping.
+https://polyhaven.com/a/forest_ground_04
+https://polyhaven.com/a/grass_ground
+https://polyhaven.com/a/pavement_06
+Surface albedo and OpenGL normal maps, 2K.
+
+OpenStreetMap contributors, ODbL 1.0.
+https://www.openstreetmap.org/copyright
+The original OSM download and converted geographic coordinates are included under References.
+
+Camp site-plan photograph: Dmitry Antropov, 2GIS, 14 September 2022.
+The photograph is a reference document and is not part of runtime scenery.
